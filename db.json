@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "code": "P001",
+      "name": "Sistem Informasi Penerimaan Mahasiswa Baru",
+      "price": 10000000,
+      "stok": 1
+    }
+  ]
+}
